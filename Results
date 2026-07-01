@@ -1,0 +1,112 @@
+APOTELESMATA:
+=== Ektelesi: 1. Isopithanes Baseis (A=25%, C=25%, G=25%, T=25%) ===
+Oloklirothikan 100 / 1000 akolouthies...
+Oloklirothikan 200 / 1000 akolouthies...
+Oloklirothikan 300 / 1000 akolouthies...
+Oloklirothikan 400 / 1000 akolouthies...
+Oloklirothikan 500 / 1000 akolouthies...
+Oloklirothikan 600 / 1000 akolouthies...
+Oloklirothikan 700 / 1000 akolouthies...
+Oloklirothikan 800 / 1000 akolouthies...
+Oloklirothikan 900 / 1000 akolouthies...
+Oloklirothikan 1000 / 1000 akolouthies...
+
+---Apotelesmata ---
+Synolika ORFs: 23435510
+Mesi timi mikous: 66.99
+Diaspora: 3902.40
+
+Istogramma Syxnotiton: 
+   0 - 99   : 18391667
+ 100 - 199  : 4010349
+ 200 - 299  : 822303
+ 300 - 399  : 169542
+ 400 - 499  : 33048
+ 500 - 599  : 6717
+ 600 - 699  : 1533
+ 700 - 799  : 270
+ 800 - 899  : 75
+ 900 - 999  : 6
+
+=== Ektelesi: 2. Ypsilo GC (A=15%, C=35%, G=35%, T=15%) ===
+Oloklirothikan 100 / 1000 akolouthies...
+Oloklirothikan 200 / 1000 akolouthies...
+Oloklirothikan 300 / 1000 akolouthies...
+Oloklirothikan 400 / 1000 akolouthies...
+Oloklirothikan 500 / 1000 akolouthies...
+Oloklirothikan 600 / 1000 akolouthies...
+Oloklirothikan 700 / 1000 akolouthies...
+Oloklirothikan 800 / 1000 akolouthies...
+Oloklirothikan 900 / 1000 akolouthies...
+Oloklirothikan 1000 / 1000 akolouthies...
+
+---Apotelesmata ---
+Synolika ORFs: 10562965
+Mesi timi mikous: 159.86
+Diaspora: 24146.79
+
+Istogramma Syxnotiton: 
+   0 - 99   : 4869108
+ 100 - 199  : 2683256
+ 200 - 299  : 1419167
+ 300 - 399  : 766785
+ 400 - 499  : 388101
+ 500 - 599  : 205203
+ 600 - 699  : 110814
+ 700 - 799  : 56922
+ 800 - 899  : 29991
+ 900 - 999  : 16248
+1000 - 1099 : 8106
+
+=== Ektelesi: 3. Ypsilo AT (A=35%, C=15%, G=15%, T=35%) ===
+Oloklirothikan 100 / 1000 akolouthies...
+Oloklirothikan 200 / 1000 akolouthies...
+Oloklirothikan 300 / 1000 akolouthies...
+Oloklirothikan 400 / 1000 akolouthies...
+Oloklirothikan 500 / 1000 akolouthies...
+Oloklirothikan 600 / 1000 akolouthies...
+Oloklirothikan 700 / 1000 akolouthies...
+Oloklirothikan 800 / 1000 akolouthies...
+Oloklirothikan 900 / 1000 akolouthies...
+Oloklirothikan 1000 / 1000 akolouthies...
+
+---Apotelesmata ---
+Synolika ORFs: 32568744
+Mesi timi mikous: 40.68
+Diaspora: 1307.22
+
+Istogramma Syxnotiton: 
+   0 - 99   : 30276961
+ 100 - 199  : 2143754
+ 200 - 299  : 138369
+ 300 - 399  : 9084
+ 400 - 499  : 540
+ 500 - 599  : 33
+ 600 - 699  : 3
+
+ΣΥΜΠΕΡΑΣΜΑΤΑ
+
+Από την προσομοίωση που έτρεξα για τα τρία διαφορετικά σενάρια, προκύπτει η απάντηση στο ερώτημα της εργασίας: Σε γονιδιώματα με πολύ AT, τα ORFs είναι μικρότερα.
+
+Σύγκριση των αποτελεσμάτων
+Βλέποντας τα αποτελέσματα:
+
+Υψηλό GC (70%): Το μέσο μήκος είναι το μεγαλύτερο, περίπου 160 βάσεις.
+
+Ισοπίθανες βάσεις (25%): Το μέσο μήκος βρίσκεται σε ενδιάμεσα επίπεδα, περίπου 67 βάσεις.
+
+Υψηλό AT (70%): Το μέσο μήκος είναι το μικρότερο, περίπου 41 βάσεις.
+
+Γιατί συμβαίνει αυτό;
+Η εξήγηση βρίσκεται στα κωδικόνια λήξης, που είναι τα TAA, TAG και TGA. Παρατηρούμε ότι αυτά τα τρία κωδικόνια αποτελούνται κυρίως από τις βάσεις A (Αδενίνη) και T (Θυμίνη).
+
+Όταν λοιπόν έχουμε πολύ AT (Σενάριο 3), η πιθανότητα να σχηματιστούν τυχαία αυτά τα κωδικόνια λήξης είναι πολύ μεγάλη. Έτσι, το ORF τερματίζεται πολύ γρήγορα και παραμένει μικρό σε μήκος.
+
+Αντίθετα, όταν έχουμε πολύ GC (Σενάριο 2), οι βάσεις A και T είναι σπάνιες, οπότε τα κωδικόνια λήξης εμφανίζονται πιο δύσκολα και το ORF προλαβαίνει να μεγαλώσει πολύ περισσότερο πριν συναντήσει κάποιο σήμα τερματισμού.
+
+Σχολιασμός Στατιστικών
+Αυτό επιβεβαιώνεται και από το ιστόγραμμα συχνοτήτων:
+
+Στο High AT, βλέπουμε πάνω από 30 εκατομμύρια ORFs να είναι πολύ μικρά (κάτω από 100 βάσεις).
+
+Στο High GC, παρόλο που έχουμε λιγότερα ORFs συνολικά, η διασπορά είναι τεράστια (24146.79). Αυτό σημαίνει ότι υπάρχει μεγάλη ποικιλία και πολλά ORFs φτάνουν σε μεγάλα μήκη, ξεπερνώντας ακόμα και τις 1000 βάσεις, κάτι που δεν παρατηρείται στο σενάριο με το πολύ AT.
